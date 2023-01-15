@@ -1,7 +1,10 @@
 {
   "domain": "vesync-custom",
   "name": "VeSync custom",
-  "documentation": "https://www.home-assistant.io/integrations/vesync",
+  "documentation": "https://github.com/bauxogeno/vesync-custom",
+  "issue_tracker": "https://github.com/bauxogeno/vesync-custom/issues",
+  "dependencies": [],
+  "version": "1.0.0",
   "codeowners": ["@bauxogeno"],
   "requirements": ["pyvesync==2.1.1"],
   "config_flow": true,
